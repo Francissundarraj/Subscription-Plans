@@ -17,5 +17,5 @@ A detailed comparison of features included in each plan, allowing users to easil
 
 ## CSS: For styling the page layout and design.
 
-# I invite you to explore my Subscription Plans Page to see the options available and what fits your needs. Your feedback is welcome! You can view the live site at YourWebsiteLink.com.
+# I invite you to explore my Subscription Plans Page to see the options available and what fits your needs. Your feedback is welcome! You can view the live site at https://francissundarraj.github.io/Subscription-Plans/
 
